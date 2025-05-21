@@ -1,0 +1,16 @@
+{
+  "caridentifier": "LC0C76C42N1081164",
+  "commandType": "8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "commandPwd": "0EFE932B379E73BFE05EAA85AC5A540E",
+  "timeStamp": {system_time_ms},
+  "random": "dde4e083-86fe-7193-88ff-fede122b9b65",
+  "city": "",
+  "netWorkingMode": "5g",
+  "mobileBrand": "",
+  "mobileModel": "RMX3800Build/UKQ1.231108.001;",
+  "mobileOs": "and",
+  "osVersion": "14;",
+  "appVersion": "MicroMessenger/8.0.58.2841(0x28003A3E)",
+  "longitude": "109.055405",
+  "latitude": "34.338326"
+}
