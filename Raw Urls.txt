@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/a1286743184/Local-AutoControl/refs/heads/master/LockBody.txt
+https://raw.githubusercontent.com/a1286743184/Local-AutoControl/refs/heads/master/LockCookie.txt
+https://raw.githubusercontent.com/a1286743184/Local-AutoControl/refs/heads/master/UnlockBody.txt
+https://raw.githubusercontent.com/a1286743184/Local-AutoControl/refs/heads/master/UnlockCookie.txt
