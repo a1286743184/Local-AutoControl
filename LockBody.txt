@@ -3,7 +3,7 @@
   "commandType": "8F14E45FCEEA167A5A36DEDD4BEA2543",
   "commandPwd": "0EFE932B379E73BFE05EAA85AC5A540E",
   "timeStamp": {system_time_ms},
-  "random": "cd3b51c8-6e54-00ee-141e-2c1b07337314",
+  "random": "3396a108-b752-9862-d5cc-9eb3f2e3aa6a",
   "city": "",
   "netWorkingMode": "wifi",
   "appVersion": "MicroMessenger/7.0.20.1781(0x6700143B)",
